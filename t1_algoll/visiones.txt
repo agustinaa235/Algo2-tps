@@ -1,0 +1,10 @@
+Jon Snow;Stark;Le dicen que no sabe nada;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones;P
+Daenerys Targaryen;Targaryen;Viaja a Poniente;F
+Jon Snow;Stark;¡Era por abajo Pacacio!;F
+Tyrion Lannister;Lannister;Mata a su propio padre;F
+Jon Snow;Stark;Se une a la Guardia de la Noche;P
+Harry potter;Potter;Se colo a este tp;P
+Cersei Lannister;Lanister;Muere aplastada en su castillo;F
+Arya Stark;Stark;Mata al jefe de los white walkers;F
+Lord volvemort;Voldemort;al igual que Harry queria figurar en el tp;P
